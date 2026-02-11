@@ -49,8 +49,8 @@
 
 |п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |-|-|-|-|-|
-|1|Лабораторная работа N4|:green\_circle|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№1/lab1.cpp)||
-|2|Лабораторная работа N5|:green\_circle|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№2/lab2.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№2/lab2.png)|
+|1|Лабораторная работа N4|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№1/lab1.cpp)||
+|2|Лабораторная работа N5|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№2/lab2.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№2/lab2.png)|
 
 
 
