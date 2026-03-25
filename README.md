@@ -51,6 +51,14 @@
 |-|-|-|-|-|
 |1|Лабораторная работа N4|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№1/lab1.cpp)||
 |2|Лабораторная работа N5|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№2/lab2.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№2/lab2.png)|
-
-
+|3|Рекурсии на основе N3|:red\_circle:|[NOD](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/НОД/NOD.cpp) [Fibbonachi](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Ряд%20чисел%20Фиббоначи/fibbo.cpp)[lab3]||
+|4|Ханойская башня|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Ханойская%20башня/hanoiskaya_bashnya.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Ханойская%20башня/hanoiskaya_bashnya.png)|
+|5|Задача о 8 ферзях|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/8%20ферзей/8_Qween.cpp)||
+|6|Простые сортировки|:red\_circle:|[insert](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Сортировки/inserting_sort_code.cpp) [selection](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Сортировки/selection_sort_code.cpp)||
+|7|Лабораторная работа N10|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Сортировки/lab_10.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Сортировки/lab_10.png)|
+|8|Лабораторная работа N7.1|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%207/7_1/lab_7_1.cpp)||
+|9|Лабораторная работа N7.2|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/README.md)|Пока не смотреть|
+|10|Лабораторная работа N6|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20строки/lab_6.cpp)||
+|11|Лабораторная работа N9|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/README.md)|Пока не смотреть|
+|12|Лабораторная работа N8|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/README.md)|Пока не смотреть|
 
