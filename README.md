@@ -49,7 +49,7 @@
 
 |п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |-|-|-|-|-|
-|0|Творческая работа IDEF0|:gree\_circle:|[idef]([https://github.com/makkop4ik/Labs_PSTU/blob/main/README.md](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/idef/zzI7Q7nznu6QaCWsid3NBZfdY0bXKqE9xGoYjFGYI_Lx2WitPXhreyDdRKLHGu17B2cst0MzjDsWQmLtev3PHT6A.jpg))||
+|0|Творческая работа IDEF0|:gree\_circle:|[idef](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/idef/zzI7Q7nznu6QaCWsid3NBZfdY0bXKqE9xGoYjFGYI_Lx2WitPXhreyDdRKLHGu17B2cst0MzjDsWQmLtev3PHT6A.jpg)||
 |1|Лабораторная работа N4|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%2520№1/lab1.cpp)||
 |2|Лабораторная работа N5|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%2520№2/lab2.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%2520№2/lab2.png)|
 |3|Рекурсии на основе N3|:purple\_circle:|[NOD](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/НОД/NOD.cpp) [Fibbonachi](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Ряд%2520чисел%2520Фиббоначи/fibbo.cpp) [lab3](https://upload.wikimedia.org/wikipedia/ru/6/61/Rickrolling.gif)||
