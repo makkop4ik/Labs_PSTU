@@ -1,4 +1,6 @@
 #include <iostream>
+#include <windows.h>
+#include <fstream>
 #include <string>
 
 using namespace std;
@@ -6,8 +8,8 @@ using namespace std;
 struct Worker {
 	string name = "Без имени";
 	string post = "Неизвестно";
-	int yearOfBirth;
-	int salary;
+	string yearOfBirth;
+	string salary;
 
 	void print() {
 		cout << "     Имя:    \t" << name << endl;
@@ -18,7 +20,7 @@ struct Worker {
 };
 
 
-Stadion* deleteElements(Worker* worker, int& size, string name) {
+Worker* deleteElements(Worker* worker, int& size, string name) {
 
 	int count = 0;
 	for (int i = 0; i < size; i++) {
@@ -40,4 +42,66 @@ Stadion* deleteElements(Worker* worker, int& size, string name) {
 	size -= count;
 
 	return s;
+}
+
+
+Worker* addElement(Worker* worker, int& size, int index) {
+	string name, post, yearOfBirth, salary;
+
+	cout << "введите имя: "; getline(cin, name);
+	cout << "введите должность: "; getline(cin, post);
+	cout << "введите год рождения: "; getline(cin, yearOfBirth);
+	cout << "введите заработную плату: "; getline(cin, salary);
+
+	Worker stad = { name, post, yearOfBirth, salary };
+	cout << endl << "создан новый стадион" << endl;
+	stad.print();
+	cout << endl;
+
+	Worker* s = new Worker[size + 1];
+
+	for (int i = 0; i < size; i++) {
+		if (i < index) s[i] = worker[i];
+		else if (i > index) s[i + 1] = worker[i];
+		else s[i] = stad;
+	}
+
+	size += 1;
+	delete[] worker;
+
+	return s;
+}
+
+int main()
+{
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+
+	fstream file("workers.txt");
+	string abs;
+
+	int workerCount = 10;
+	Worker* worker = new Worker[workerCount];
+
+
+	string name, post, yearOfBirth, salary;
+
+	for (int i = 0; i < workerCount; i++) {
+		getline(file, name);
+		getline(file, post);
+		getline(file, yearOfBirth);
+		getline(file, salary);
+
+		worker[i] = { name, post, yearOfBirth, salary };
+
+		getline(file, abs);
+	}
+
+
+
+
+
+
+
+
 }
