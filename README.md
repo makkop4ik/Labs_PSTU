@@ -49,6 +49,19 @@
 
 |п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |-|-|-|-|-|
+||Задача 3.1|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.1/3.1.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.1/3.1.png)|
+||Задача 3.2|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.2/3.2.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.2/3.2.png)|
+||Задача 3.3|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.3/3.3.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.3/3.3.png)|
+||Задача 3.4|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.4/3.4.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.4/3.4.png)|
+||Задача 3.5|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/3_1-3_13/3.5)|[png](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/3_1-3_13/3.5)|
+||Задача 3.6|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.6/3.6.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.6/3.6.png)|
+||Задача 3.7|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/3_1-3_13/3.7)|[png](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/3_1-3_13/3.7)|
+||Задача 3.8|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.8/3.8.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.8/3.8.png)|
+||Задача 3.9|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.9/3.9.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.9/3.9.png)|
+||Задача 3.10|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.10/3.10.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.10/3.10.png)|
+||Задача 3.11|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.11/3.11.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.11/3.11.png)|
+||Задача 3.12|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.12/3.12.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.12/3.12.png)|
+||Задача 3.13|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.13/3.13.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/3_1-3_13/3.13/3.13.png)|
 |0|Творческая работа IDEF0|:gree\_circle:|[idef](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/idef/zzI7Q7nznu6QaCWsid3NBZfdY0bXKqE9xGoYjFGYI_Lx2WitPXhreyDdRKLHGu17B2cst0MzjDsWQmLtev3PHT6A.jpg)||
 |1|Лабораторная работа N4|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%2520№1/lab1.cpp)||
 |2|Лабораторная работа N5|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%2520№2/lab2.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%2520№2/lab2.png)|
@@ -60,8 +73,9 @@
 |8|Лабораторная работа N7.1|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%25207/7_1/lab_7_1.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%25207/7_1/lab_7_1.png)|
 |9|Лабораторная работа N7.2|:purple\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%25207/7_2/lab_7_2.cpp)||
 |10|Лабораторная работа N6|:purple\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520строки/lab_6.cpp)||
-|11|Лабораторная работа N9|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/README.md)|Пока не смотреть|
-|12|Лабораторная работа N8|:red\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/README.md)|Пока не смотреть|
-
-
+|11|Лабораторная работа N9|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№9/lab9.cpp)|[png]()|
+|12|Лабораторная работа N8|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Структура/lab_8.cpp)|[png](dgng.pstu.ru)|
+|13|Лабораторная работа №11|:green\_circle:|[11.1](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_1/11_1.cpp) [11.2](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_2/11_2.cpp) [11.3](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_3/11_3.cpp) [11.4](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_4/11_4.cpp)|-|
+|14|Классы N1|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/1)||
+|14|Классы N2|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/2)||
 
