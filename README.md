@@ -87,9 +87,9 @@
 |21|Классы N5|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%205)|
 |22|Классы N6|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%206)|
 |23|Классы N7|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%207)|
-|124|Классы N8|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%208)|
+|124|Классы N8|:red\_circle:|-|
 |25|Классы N9|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%209)|
 |26|Классы N10|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%2010)|
-|27|Классы N11|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%2011)|
-|28|Классы N12|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%2012)|
+|27|Классы N11|:red\_circle:|-|
+|28|Классы N12|:red\_circle:|-|
 
