@@ -68,6 +68,7 @@
 |3|Рекурсии на основе N3|:purple\_circle:|[NOD](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/НОД/NOD.cpp) [Fibbonachi](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Ряд%2520чисел%2520Фиббоначи/fibbo.cpp) [lab3](https://upload.wikimedia.org/wikipedia/ru/6/61/Rickrolling.gif)||
 |4|Ханойская башня|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Ханойская%2520башня/hanoiskaya_bashnya.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Ханойская%2520башня/hanoiskaya_bashnya.png)|
 |5|Задача о 8 ферзях|:purple\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/8%2520ферзей/8_Qween.cpp)||
+|5.5|НОД|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/НОД/NOD.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/НОД/NOD.png)|
 |6|Простые сортировки|:purple\_circle:|[insert](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Сортировки/inserting_sort_code.cpp) [selection](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Сортировки/selection_sort_code.cpp)||
 |7|Лабораторная работа N10|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Сортировки/lab_10.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Сортировки/lab_10.png)|
 |8|Лабораторная работа N7.1|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%25207/7_1/lab_7_1.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520работа%25207/7_1/lab_7_1.png)|
@@ -75,7 +76,20 @@
 |10|Лабораторная работа N6|:purple\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%25202/Лабораторная%2520строки/lab_6.cpp)||
 |11|Лабораторная работа N9|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Лабораторная%20работа%20№9/lab9.cpp)|[png]()|
 |12|Лабораторная работа N8|:green\_circle:|[code](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/Структура/lab_8.cpp)|[png](dgng.pstu.ru)|
-|13|Лабораторная работа №11|:green\_circle:|[11.1](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_1/11_1.cpp) [11.2](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_2/11_2.cpp) [11.3](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_3/11_3.cpp) [11.4](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_4/11_4.cpp)|-|
-|14|Классы N1|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/1)||
-|14|Классы N2|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/2)||
+|13|Лабораторная работа №11|:green\_circle:|[11.1](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_1/11_1.cpp) [11.2](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_2/11_2.cpp) [11.3](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_3/11_3.cpp) [11.4](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_4/11_4.cpp)|[png](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/11%20лаба/11_1/11_1.png)|
+|14|Простые поиски|:green\_circle:|[bin](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/простые%20поиски/bin/bin_search.cpp) [lin](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/простые%20поиски/bin/bin_search.cpp)|[bin](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/простые%20поиски/bin/bin_search.png) [lin](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/простые%20поиски/bin/bin_search.png)
+|15|Непростые поиски|:green\_circle:|[KMP](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/непростые%20поиски/кнут-моррис-пратт/KMP_search.cpp) [NS](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/непростые%20поиски/наивно%20строковой/наивный%20поиск.cpp)|[KMP](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/непростые%20поиски/кнут-моррис-пратт/KMP_search.png) [NS](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/непростые%20поиски/наивно%20строковой/наивный%20поиск.png)
+|16|Быстрые сортировки|:green\_circle:|[lom](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/быстрые%20сортировки/Ломуто/lomuto_sort.cpp) [hoar](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/быстрые%20сортировки/Хоара/hoare_sort.cpp) [shell](https://github.com/makkop4ik/Labs_PSTU/blob/main/sem%202/быстрые%20сортировки/Шелл/shell_sort.cpp)||
+|17|Классы N1|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/1)||
+|18|Классы N2|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/2)||
+|19|Классы N3|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%203)|
+|20|Классы N4|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%204)|
+|21|Классы N5|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%205)|
+|22|Классы N6|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%206)|
+|23|Классы N7|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%207)|
+|124|Классы N8|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%208)|
+|25|Классы N9|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%209)|
+|26|Классы N10|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%2010)|
+|27|Классы N11|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%2011)|
+|28|Классы N12|:purple\_circle:|[folder](https://github.com/makkop4ik/Labs_PSTU/tree/main/sem%202/КЛАССССССССССССССЫ/класс%2012)|
 
